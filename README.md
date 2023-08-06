@@ -5,7 +5,7 @@
 - $ npm start
 
 ### 데모 영상
-- 배포 링크
+- 배포 링크: https://wanted-pre-onboarding-frontend-todo-seryeongkim.vercel.app/
 
 ---
 <details>
