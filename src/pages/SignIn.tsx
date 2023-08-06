@@ -44,6 +44,7 @@ export default function SignUp() {
                 value={email}
                 onChange={(e) => {
                   setEmail(e.target.value);
+                  setErrMsg("");
                 }}
                 className="w-56 border-b-2"
               />
@@ -64,6 +65,7 @@ export default function SignUp() {
                 value={password}
                 onChange={(e) => {
                   setPassword(e.target.value);
+                  setErrMsg("");
                 }}
                 className="w-56 border-b-2"
               />
