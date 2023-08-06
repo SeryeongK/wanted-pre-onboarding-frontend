@@ -17,7 +17,7 @@ export const signIn_api = async (email: string, password: string) => {
     } else if (res.status === 401) {
       return {
         statusCode: 401,
-        message: "비밀번호가 틀렸습니다.",
+        message: "이메일 혹은 비밀번호가 틀렸습니다.",
       };
     } else {
       throw new Error("오류가 발생했습니다.");
