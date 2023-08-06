@@ -58,7 +58,7 @@ export default function SignUp() {
             <p className="w-[5rem]">비밀번호</p>
             <div className="h-[4rem]">
               <input
-                type="text"
+                type="password"
                 data-testid="password-input"
                 name="password"
                 value={password}
