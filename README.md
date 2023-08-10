@@ -1,11 +1,25 @@
 # 원티드 프리온보딩 프론트엔드 - 선발 과제(김세령)
 
 ### 프로젝트 실행 방법
-- $ npm install
-- $ npm start
+```
+$ npm install
+$ npm start
+```
 
 ### 데모 영상
 - 배포 링크: https://wanted-pre-onboarding-frontend-todo-seryeongkim.vercel.app/
+
+|회원가입 성공|회원가입 실패(동일 이메일)|
+|-|-|
+|![회원가입_성공](https://github.com/SeryeongK/wanted-pre-onboarding-frontend/assets/67596636/00223a4f-43a8-4efd-8fa1-6c455aa17238)|![회원가입_동일 이메일](https://github.com/SeryeongK/wanted-pre-onboarding-frontend/assets/67596636/68cad21d-a79d-4619-ac50-56f29ac0fc8b)|
+
+|로그인 성공|로그인 실패(비밀번호 오류)|로그인 실패(기타)|
+|-|-|-|
+|![로그인_성공](https://github.com/SeryeongK/wanted-pre-onboarding-frontend/assets/67596636/cca40ea7-18b6-4577-8e09-4a9969f480f9)|![로그인_비밀번호 오류](https://github.com/SeryeongK/wanted-pre-onboarding-frontend/assets/67596636/ba99edc6-d7ec-41b0-b27e-1614bd889d4f)|![로그인_실패](https://github.com/SeryeongK/wanted-pre-onboarding-frontend/assets/67596636/b4c1dbda-30a6-44ac-8326-a2c188042c0a)|
+
+|투두리스트|
+|-|
+|![투두리스트](https://github.com/SeryeongK/wanted-pre-onboarding-frontend/assets/67596636/b95f793c-c694-45b7-9af6-43e32d936437)|
 
 ---
 <details>
